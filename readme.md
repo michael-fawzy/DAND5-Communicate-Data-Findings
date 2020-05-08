@@ -32,7 +32,11 @@
 
 > Most important findinngs can be viewed in the accompanying slides. These are:
 	1. An average ride duration lies in the 3-14 minute range.
+	
 	2. Most trips were taken in February, and trips started and ended on Wednesday.
+	
 	3. At durations less than or equal to 60 minutes, both customers (casual) and subscribers (members) have achieved similar duartions of use
+	
 	4. When viewed by Month, without setting a duration limit, the plot shows that some customers had longer trip durations than subscribers.
+	
 	5. The idea is succeeding since the average Trip duration has been increasing since Jan 2020 and reached it's peak in March which concludes that people are depending more on bikes to go to farther places.
